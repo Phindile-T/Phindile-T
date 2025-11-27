@@ -1,13 +1,10 @@
 # Hello, I'm Phindile
 
-[Brief Introduction - Remove this afterwards]
-
-I am a recent graduate with a profound interest in technology and a dedication to solving complex problems.
+I am a dedicated and ambitious individual with a keen interest in technology.
 
 ## Objective
-[Provide Objective - Remove this afterwards]]
 
-My journey in computer science has led me to develop a passion for cybersecurity, and I am now eager to transition into this field, specifically aiming to join a Security Operations Center (SOC) as a Tier 1 Analyst.
+My journey and research of the world of technology and seeing how the world has gone digital has led me to develop a passion for cybersecurity, and I am now eager to transition into this field. I am specifically looking into growing in the security field and developing and gaining more skills as I grow.
 
 ## Skills
 [Provide skills and associated project. Make sure to hyperlink the project - Remove this afterwards]]
