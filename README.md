@@ -11,7 +11,7 @@ My journey and research of the world of technology and seeing how the world has 
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| SIEM Implementation and Log Analysis          | <a href="https://google.com">Detection Lab</a>|
+| Linux commands                                | <a href="https://github.com/Phindile-T/Linux-commands">Linux Commands</a>|
 | Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Detection Lab</a>|
 | Security Automation with Shuffle SOAR         | SOC Automation Lab|
 | Incident Response Planning and Execution      | SOC Automation Lab|
@@ -54,3 +54,4 @@ My journey and research of the world of technology and seeing how the world has 
 ## Projects
 - Detection Lab
 - SOC Automation Project
+-  <a href="https://github.com/Phindile-T/Linux-commands">Linux Commands</a>
