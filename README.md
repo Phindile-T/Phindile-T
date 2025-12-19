@@ -7,7 +7,6 @@ I am a dedicated and ambitious individual with a keen interest in technology.
 My journey and research of the world of technology and seeing how the world has gone digital has led me to develop a passion for cybersecurity, and I am now eager to transition into this field. I am specifically looking into growing in the security field and developing and gaining more skills as I grow.
 
 ## Skills
-[Provide skills and associated project. Make sure to hyperlink the project - Remove this afterwards]]
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
